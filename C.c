@@ -10,5 +10,5 @@ int main()
    TOTAL = SALARY + TOTAL_SALARY * 0.15;
    printf("TOTAL = R$ %.2lf\n", TOTAL);
 
-    return 0;
+   return 0;
 }
