@@ -6,5 +6,4 @@ fun main(args: Array<String>){
     var b = read.nextDouble()
     var c = read.nextDouble()
     println("TOTAL = R$ %.2f".format(b + 0.15 * c))
-
 }
