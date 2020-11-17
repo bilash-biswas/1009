@@ -8,5 +8,4 @@ $mul = $num2 + (0.15 * $num3);
 
 echo "TOTAL = R$ ".number_format($mul,2,'.','')."\n";
 
-
 ?>
